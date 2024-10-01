@@ -1,13 +1,7 @@
-#include<stdio.h>
-int main()
-{
-printf(Enter value);
-scanf( Hi, I’m @Itsme-judy);
-printf(Enter value);
-scanf( I’m interested in coding);
-printf(Enter value);
-scanf( I’m currently learning c programming);
-printf(Enter value);
-scanf( You can contact me on 0748514521)
-return 0'
-}
+Itsme-judy
+Welcome to my personal portfolio website show casing my expertise,journey projects and thoughts 
+Am a developer and designer with a passion for creating interactive experience 
+Iam currently interested in coding and web designing
+for further information contact me on 0748514521
+or
+Email me at judywanjiru5617@gmail.com
